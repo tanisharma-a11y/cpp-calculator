@@ -1,16 +1,14 @@
 # cpp-calculator
-This is a simple calculator built using C++.
+This repository contains basic C++ projects developed for learning and practice.
 
-## Features
-- Addition
-- Subtraction
-- Multiplication
-- Division
+## Projects
 
-## How to Run
-1. Compile the code using a C++ compiler
-2. Run the program
-3. Enter numbers and operator
+### 1. Calculator
+- Performs basic arithmetic operations like addition, subtraction, multiplication, and division.
+
+### 2. Carbon Footprint Calculator
+- Estimates daily carbon emissions based on travel distance and electricity usage.
+
 
 ## Author
 Tanisha Sharma
