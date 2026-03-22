@@ -1,6 +1,3 @@
-# Beginner C++ Projects Portfolio
-This repository contains beginner-friendly C++ projects built to demonstrate problem-solving, logical thinking, and basic programming skills. 
-
 ## Projects
 
 ### 1. Calculator
